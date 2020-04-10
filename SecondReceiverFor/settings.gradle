@@ -1,0 +1,2 @@
+rootProject.name='SecondReceiverFor'
+include ':app'
